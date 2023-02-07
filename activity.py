@@ -36,6 +36,7 @@ from sugar3.graphics.toggletoolbutton import ToggleToolButton
 from sugar3.graphics.style import GRID_CELL_SIZE
 from sugar3.activity.widgets import ActivityButton
 from sugar3.activity.widgets import StopButton
+from helpbutton import HelpButton
 
 import tools
 from physics import PhysicsGame
